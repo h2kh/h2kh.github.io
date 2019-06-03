@@ -20,7 +20,6 @@ _Data_:
 We will use data from [Spacious](https://www.spacious.hk/en/hong-kong) which is a property leasing website. This dataset has the names and average rent per square foot for 128 neighborhoods located within 18 districts in Hong Kong. We will supplement this data with the coordinates of each of these neighborhoods that we retrieved using the Python GeoPy module.
 
 ![alt text](./Hong-Kong-neighborhood-clustering/blob/master/Capture.JPG)
-[https://en.wikipedia.org/wiki/Pakistan#/media/File:Flag_of_Pakistan.svg]
 
 We can plot markers for these neighborhoods on a map of Hong Kong. Notice how the majority of Hong Kong's land area is uninhabited, mountainous terrain and most of the developed area is situated next to the sea. This interactive map is created using the Folium module. Clicking on the location markers reveals the neighborhood's name and district.
 
@@ -77,7 +76,7 @@ One application can be to use our data to identify most similar neighborhoods. F
 
 We can also utilize our clustering model to suggest similar neighborhoods which have the cheapest average rent per square foot. Since we have two constraints (neighborhood similarity and rental cost), we will have to optimize for them one by one. The other option would be to assign weights signifying the relative importance of these two constraints but we decide not to pursue that idea because being asked to specify weights would unnecessarily complicate matters for our intended users. Upon selection of the user's current neighborhood, our code will first identify the neighborhood's cluster and then, from within that cluster, pick out the neighborhood with the cheapest rent. In the example below, we see that choosing Mongkok as the input returns information on Mongkok's cluster (i.e. Cluster 3) and the neighborhood with the cheapest rent in that cluster, Wu Kau Tang.
 
-![alt text](https://github.com/h2kh/Hong-Kong-neighborhood-clustering/blob/master/gif2.gif)
+![alt text](gif2.gif)
 
 
 _Discussion_:
