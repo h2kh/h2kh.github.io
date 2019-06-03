@@ -21,6 +21,7 @@ We will use data from [Spacious](https://www.spacious.hk/en/hong-kong) which is 
 
 ![alt text](https://github.com/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Capture.JPG)
 <img src="Capture.JPG" alt="Smiley face" height="42" width="42">
+![hey](https://github.com/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Capture.JPG){:class="img-responsive"}
 
 We can plot markers for these neighborhoods on a map of Hong Kong. Notice how the majority of Hong Kong's land area is uninhabited, mountainous terrain and most of the developed area is situated next to the sea. This interactive map is created using the Folium module. Clicking on the location markers reveals the neighborhood's name and district.
 
