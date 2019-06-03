@@ -19,7 +19,7 @@ _Data_:
 
 We will use data from [Spacious](https://www.spacious.hk/en/hong-kong) which is a property leasing website. This dataset has the names and average rent per square foot for 128 neighborhoods located within 18 districts in Hong Kong. We will supplement this data with the coordinates of each of these neighborhoods that we retrieved using the Python GeoPy module.
 
-![alt text](./Hong-Kong-neighborhood-clustering/blob/master/Capture.JPG)
+![alt text](Hong-Kong-neighborhood-clustering/blob/master/Capture.JPG)
 
 We can plot markers for these neighborhoods on a map of Hong Kong. Notice how the majority of Hong Kong's land area is uninhabited, mountainous terrain and most of the developed area is situated next to the sea. This interactive map is created using the Folium module. Clicking on the location markers reveals the neighborhood's name and district.
 
