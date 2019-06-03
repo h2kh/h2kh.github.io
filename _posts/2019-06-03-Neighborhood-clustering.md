@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Clustering Hong Kong's neighborhoods"
+---
+
 # Clustering Hong Kong's neighborhoods
 ### *Find your next apartment in similar yet cheaper locations*
 ---------
