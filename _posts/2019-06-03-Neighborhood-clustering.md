@@ -72,11 +72,11 @@ Now that we have characterized the neighborhoods, we can use our data in many di
 
 One application can be to use our data to identify most similar neighborhoods. For example, you can select your neigborhood in the following code cells and we will use our data to identify the most similar neighborhood based on Euclidean distance. Such information can be useful if you want to move to another neighborhood that is similar to the one in which you reside now. In the example below, we see that Sheung Wan is most similar to Wong Chuk Hang.
 
-![alt text](/assets/gif1.gif){:height="220px" width="700px"}
+![alt text](/assets/gif1.gif){:height="190px" width="600px"}
 
 We can also utilize our clustering model to suggest similar neighborhoods which have the cheapest average rent per square foot. Since we have two constraints (neighborhood similarity and rental cost), we will have to optimize for them one by one. The other option would be to assign weights signifying the relative importance of these two constraints but we decide not to pursue that idea because being asked to specify weights would unnecessarily complicate matters for our intended users. Upon selection of the user's current neighborhood, our code will first identify the neighborhood's cluster and then, from within that cluster, pick out the neighborhood with the cheapest rent. In the example below, we see that choosing Mongkok as the input returns information on Mongkok's cluster (i.e. Cluster 3) and the neighborhood with the cheapest rent in that cluster, Wu Kau Tang.
 
-![alt text](/assets/gif2.gif){:height="220px" width="700px"}
+![alt text](/assets/gif2.gif){:height="190px" width="600px"}
 
 _Discussion_:
 
