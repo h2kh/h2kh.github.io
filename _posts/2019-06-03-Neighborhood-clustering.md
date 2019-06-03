@@ -5,7 +5,7 @@ title: "Clustering Hong Kong's neighborhoods"
 
 ### *Find your next apartment in similar yet cheaper locations*
 ---------
-Here is the project [notebook.](https://nbviewer.jupyter.org/github/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Hong%20Kong%20neighborhoods.ipynb)If you don't want to look at the code, read on for a brief summary of the project.
+Here is the project [notebook.](https://nbviewer.jupyter.org/github/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Hong%20Kong%20neighborhoods.ipynb) Read on for a brief summary of the project.
 
 
 _Introduction_:
