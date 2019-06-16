@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Compare World Cup performance for South and North America versus the Rest of the World"
+title: "Compare World Cup performance for SA and NA versus the World on Tableau"
 ---
 
 
