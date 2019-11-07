@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Clustering Hong Kong's neighborhoods"
+nottableau: true
 ---
 
 ### *Find your next apartment in similar yet cheaper locations*
