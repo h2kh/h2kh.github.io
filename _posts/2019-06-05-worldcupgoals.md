@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Compare World Cup performance for SA and NA versus the World on Tableau"
+tableau: true
 ---
 
 
