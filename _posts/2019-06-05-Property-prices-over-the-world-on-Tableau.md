@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Property prices over the world on Tableau"
-tableau: true
+tableau: 'true'
 ---
 
 
