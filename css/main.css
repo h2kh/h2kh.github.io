@@ -47,3 +47,13 @@ ul.posts li {
     list-style: none;
     margin-bottom: 0.5cm
 }
+
+ul.tableauposts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.tableauposts li {
+    list-style: none;
+    margin-bottom: 0.5cm
+}
