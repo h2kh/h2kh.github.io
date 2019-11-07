@@ -21,7 +21,7 @@ title: Data Science projects
 	
 	<ul class="posts">
 
-	  {% for post in site.posts if post.nottableau == 'true' %}
+	  {% if post.nottableau == 'true' for post in site.posts  %}
 	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
