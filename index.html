@@ -32,6 +32,8 @@ title: Data Science projects
 	  
 	  {% for post in site.tableauposts %}
 	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% else %}
+            <li><em>There are no users found</em></li>
 	  {% endfor %}	
 	</ul>
 	
