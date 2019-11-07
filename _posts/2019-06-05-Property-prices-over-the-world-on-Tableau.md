@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Property prices over the world on Tableau"
+nottableau: false
 tableau: true
 ---
 
