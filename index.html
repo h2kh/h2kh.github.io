@@ -22,5 +22,12 @@ title: Data Science projects
 	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+	<p style="font-size:18px;"> Here are some Tableau dashboards that I made about topics that I found interesting:</p>
+	<ul class="posts">
+	  {% for post in site.tableauposts %}
+	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+		
+	</ul>
 	
 </div><!-- /.blurb -->
