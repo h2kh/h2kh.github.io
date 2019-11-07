@@ -21,7 +21,9 @@ title: Data Science projects
 	
 	<ul class="posts">
 
-	  {% for post in site.posts %}
+	  {% for post in site.posts if post.tableau %}
+	
+	  {% else %}
 	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
@@ -30,10 +32,8 @@ title: Data Science projects
 	
 	<ul class="posts">
 	  
-	  {% for post in site.tableauposts %}
+	  {% for post in site.posts if post.tableau %}
 	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% else %}
-            <li><em>There are no users found</em></li>
 	  {% endfor %}	
 	</ul>
 	
