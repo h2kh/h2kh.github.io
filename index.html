@@ -21,8 +21,9 @@ title: Data Science projects
 	
 	<ul class="posts">
 
-	  {% if post.nottableau == 'true' for post in site.posts  %}
-	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for post in site.posts  %}
+	    {% if post.nottableau == 'true' %}
+	       <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
 	
@@ -31,7 +32,8 @@ title: Data Science projects
 	<ul class="posts">
 	  
 	  {% for post in site.posts if post.tableau == 'true' %}
-	    <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    {% if post.tableau == 'true' %}
+	       <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}	
 	</ul>
 	
