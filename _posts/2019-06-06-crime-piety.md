@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crime and Piety: a cross-sectional study with linear regression"
+tableau: false
 ---
 
 This was the capstone project for my undergraduate degree. I majored in Economics but the only requirement for the project was that it should incorporate statistical analysis so I used linear regression for this project.
