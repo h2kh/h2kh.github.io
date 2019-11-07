@@ -2,7 +2,6 @@
 layout: post
 title: "Will the debtor default? Predicting loan repayment with classification algorithms"
 nottableau: true
-tableau: false
 ---
 
 In this project, we will use different classification algorithms such as logistic regression, SVM, decision trees, and k-NN to predict whether a certain loan is paid off on time. We will then evaluate and compare their performance to select the best performing algorithm.
