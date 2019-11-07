@@ -4,7 +4,7 @@ body {
     background: -webkit-linear-gradient(#ffffcc, #ffffff); 
     background: -o-linear-gradient(#ffffcc, #ffffff); 
     background: -moz-linear-gradient(#ffffcc, #ffffff); 
-    background: linear-gradient(to right,#ffffcc, #ffffff); 
+    background: linear-gradient(#ffffcc, #ffffff); 
     background-color: #ffffcc; 
     
 }
