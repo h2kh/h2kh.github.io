@@ -1,11 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: -webkit-linear-gradient(#ffffcc, #ffffe6); 
-    background: -o-linear-gradient(#ffffcc, #ffffe6); 
-    background: -moz-linear-gradient(#ffffcc, #ffffe6); 
-    background: linear-gradient(#ffffcc, #ffffe6); 
-    background-color: #ffffcc; 
+    background: -webkit-linear-gradient(#ffffe6, #ffffff); 
+    background: -o-linear-gradient(#ffffe6, #ffffff); 
+    background: -moz-linear-gradient(#ffffe6, #ffffff); 
+    background: linear-gradient(#ffffe6, #ffffff); 
+    background-color: #ffffe6; 
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
