@@ -2,7 +2,6 @@
 layout: post
 title: "Video games over the last 20 years - exploratory analysis"
 nottableau: true
-tableau: false
 ---
 
 
