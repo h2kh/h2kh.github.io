@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Compare personal income with company incomes on Tableau "
-nottableau: false
 tableau: true
 ---
 
