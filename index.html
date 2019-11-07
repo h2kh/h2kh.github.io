@@ -24,6 +24,7 @@ title: Data Science projects
 	  {% for post in site.posts  %}
 	    {% if post.nottableau == 'true' %}
 	       <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    {% endif %}	
 	  {% endfor %}
 	</ul>
 	
@@ -34,6 +35,7 @@ title: Data Science projects
 	  {% for post in site.posts if post.tableau == 'true' %}
 	    {% if post.tableau == 'true' %}
 	       <li>- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    {% endif %}	
 	  {% endfor %}	
 	</ul>
 	
