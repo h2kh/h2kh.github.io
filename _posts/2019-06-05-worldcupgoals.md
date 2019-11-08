@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Compare World Cup performance for SA and NA versus the World on Tableau"
+title: "Compare World Cup performance for South America and North America versus the World on Tableau"
 tableau: 'true'
 ---
 
