@@ -52,13 +52,12 @@ ul.posts li {
 }
 
 button {
-  background-color: #95DB97; /* Green */
+  background-color: #71C774; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
