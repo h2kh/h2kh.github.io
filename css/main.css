@@ -49,5 +49,5 @@ ul.posts {
 ul.posts li {
     list-style-position: outside;
     list-style-type: square;
-    margin-bottom: 0.3cm
+    margin-bottom: 0.5em
 }
