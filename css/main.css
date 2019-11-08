@@ -47,6 +47,7 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
-    margin-bottom: 0.5cm
+    list-style-position: outside;
+    list-style-type: square;
+    margin-bottom: 0.3cm
 }
