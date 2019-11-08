@@ -43,6 +43,7 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.1em;
     font-style: italic;
+    color: #000000;
 }
 
 ul.posts li {
