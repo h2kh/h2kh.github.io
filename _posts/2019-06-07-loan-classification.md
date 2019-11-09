@@ -17,5 +17,5 @@ Here, you can see the results of the project. We can see that SVM has performed 
 If we want somewhat of a balance between model complexity and model performance, decision trees could be a good option (Note: the decision tree below is based on normalized data).
 
 
-![Decision tree](/assets/dectree.png){:height="383px" width="575px"}
+![Decision tree](/assets/dectree.png){:height="583px" width="800px"}
 
