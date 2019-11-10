@@ -26,7 +26,7 @@ The data includes details of 346 customers whose loan are already paid off or de
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![Dashboard snapshot]({{ site.baseimg }}/assets/Capture23.png)
+![Dashboard snapshot]({{ site.baseimg }}/assets/capture23.png)
 {: refdef}
 
 We see that people who get the loan at the end of the week are more likely to default on the loan, so we can create a binary feature 'weekend' that tells us whether the loan began on a weekday or the weekend. Since gender is a binary categorical variable, we can simply code males as 0 and females as 1. As education has more than two levels, we can use one-hot encoding to create indicator variables for each feature. 
