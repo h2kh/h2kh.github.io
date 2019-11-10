@@ -5,7 +5,7 @@ subtitle: "Cross-sectional study using multiple linear regression on the relatio
 nottableau: 'true'
 ---
 
-This was the capstone project for my undergraduate degree. I majored in Economics but the only requirement for the project was that it should incorporate statistical analysis so I used linear regression for this project.
+This was the capstone project for my undergraduate degree. I majored in Economics but the only requirement for the project was that it should incorporate statistical analysis so I used linear regression for this project. All of the analysis was done using Stata.
 
 ---
 
