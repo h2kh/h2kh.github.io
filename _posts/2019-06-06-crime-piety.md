@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Crime and Piety: a cross-sectional study with linear regression"
+title: "Crime and Piety"
+subtitle: "Cross-sectional study using multiple linear regression on the relationship between crime and religiosity in society"
 nottableau: 'true'
 ---
 
