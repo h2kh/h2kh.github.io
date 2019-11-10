@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding your next apartment in Hong Kong in similar yet cheaper locations"
+title: "Finding your next apartment in similar yet cheaper locations"
 subtitle: "K-means clustering on Hong Kong's neighborhoods based on local business activity"
 nottableau: 'true'
 ---
