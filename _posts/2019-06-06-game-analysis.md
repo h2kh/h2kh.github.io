@@ -44,7 +44,7 @@ We can see the trends over the years in the average scores for each genre in the
 ![Data]({{ site.baseimg }}/assets/Capture11.png)
 {: refdef}
 
-Here we see that the the distributions for platforms across four different "score phrases" (from the IGN reveiwers) are remarkably similar.
+Here we see that the distributions for platforms across four different "score phrases" (from the IGN reveiwers) are remarkably similar.
 
 {:refdef: style="text-align: center;"}
 ![Data]({{ site.baseimg }}/assets/Capture13.png)
