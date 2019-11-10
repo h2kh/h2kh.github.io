@@ -17,13 +17,13 @@ Feel free to look through the code in my **[Jupyter notebook](https://nbviewer.j
 Here is a snapshot of what the data looks like: 
 
 {:refdef: style="text-align: center;"}
-![Data]({{ site.baseimg }}/assets/Capture15.JPG){:height="300px" width="700px"}
+![Data]({{ site.baseimg }}/assets/Capture15.JPG){:height="200px" width="700px"}
 {: refdef}
 
 We can see that the number of releases increases from August to November in the lead up to Black Friday and Christmas before a sharp drop in December. The number of games released per year rises steadily until 2008 before dropping pretty quickly. Given the increasing popularity of games and the advent of new platforms like mobile gaming over the last few years, this seems unlikely. Further investigation is needed but a simple explanation could be the fact that IGN (the data source) just isn't that popular a game rating website as it used to be (because of competitors like Steam).
 
 {:refdef: style="text-align: center;"}
-![Data]({{ site.baseimg }}/assets/Capture17.png){:height="650px" width="900px"}
+![Data]({{ site.baseimg }}/assets/Capture17.png){:height="450px" width="900px"}
 {: refdef}
 
 The distribution for the game ratings/scores appear to be skewed to the left with a majority of the scores in the 6 to 9 range with mean at 6.95.
