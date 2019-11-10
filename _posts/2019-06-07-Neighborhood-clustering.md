@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Clustering Hong Kong's neighborhoods"
+title: "Finding your next apartment in Hong Kong in similar yet cheaper locations"
+subtitle: "K-means clustering on Hong Kong's neighborhoods based on local business activity"
 nottableau: 'true'
 ---
 
-### *Find your next apartment in similar yet cheaper locations*
+### **
 ---------
-Here is the **[Jupyter notebook.](https://nbviewer.jupyter.org/github/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Hong%20Kong%20neighborhoods.ipynb)** Read on for a summary of the project.
+Here is the **[Jupyter notebook](https://nbviewer.jupyter.org/github/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Hong%20Kong%20neighborhoods.ipynb)**. I have used the following Python libraries in this project: Pandas, Matplotlib, Folium, GeoPy, iPywidgets and Scikit-learn. Read on for a summary of the project.
 
 
 _Introduction_:
