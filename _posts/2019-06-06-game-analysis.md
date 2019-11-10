@@ -9,4 +9,4 @@ This **[Kaggle dataset](https://www.kaggle.com/egrinstein/20-years-of-games)** c
 
 **[Jupyter notebook](https://nbviewer.jupyter.org/github/h2kh/video_game_exploratory/blob/master/game-analysis.ipynb)**
 
-Note: the Kaggle dataset this project was based on has been taken down. However, you can still see my analysis in the linked notebook without any issues.
+(Note: the Kaggle dataset this project was based on has been taken down by the uploader. However, you can still see my analysis in the linked notebook without any issues.)
