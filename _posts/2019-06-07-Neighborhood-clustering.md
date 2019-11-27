@@ -5,8 +5,6 @@ subtitle: "K-means clustering on Hong Kong's neighborhoods based on local busine
 nottableau: 'true'
 ---
 
-### **
----------
 Here is the **[Jupyter notebook](https://nbviewer.jupyter.org/github/h2kh/Hong-Kong-neighborhood-clustering/blob/master/Hong%20Kong%20neighborhoods.ipynb)**. I have used the following Python libraries in this project: Pandas, Matplotlib, Folium, GeoPy, iPywidgets and Scikit-learn. Read on for a summary of the project.
 
 
