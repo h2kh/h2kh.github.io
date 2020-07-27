@@ -4,8 +4,8 @@ title: "Compare World Cup performance for South America and North America versus
 tableau: 'true'
 ---
 
-Click here to view the dashboard on **[Tableau Public](https://public.tableau.com/shared/G92KWJQG7?:display_count=y&:origin=viz_share_link)**
+Click here to view the dashboard on **[Tableau Public](https://public.tableau.com/views/Worldcupgoals_15606256110380/WorldCupgoalsfortheAmericasvstherestoftheWorld?:embed=y&:display_count=yes&:origin=viz_share_link)**
 
 {:refdef: style="text-align: center;"}
-![Dashboard snapshot]({{ site.baseimg }}/assets/citibike.jpg)
+![Dashboard snapshot]({{ site.baseimg }}/assets/goalviz.jpg)
 {: refdef}
