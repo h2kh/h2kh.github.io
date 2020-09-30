@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding your next apartment in similar yet cheaper locations"
-subtitle: "K-means clustering on Hong Kong's neighborhoods based on local business activity"
+subtitle: "K-means clustering and rent analysis on Hong Kong's neighborhoods based on local business activity using data from FourSquare's API"
 nottableau: 'true'
 ---
 
