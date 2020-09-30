@@ -12,3 +12,11 @@ I have used the following Python libraries in this project: Pandas, Matplotlib, 
 The app is created using the Streamlit framework and is hosted on Heroku (it's a free service so slightly slower than commercially-deployed apps).
 
 All of the financial data is scraped from Yahoo Finance in real time while the 'relevant news' data comes from NewsAPI.
+
+{:refdef: style="text-align: center;"}
+![Dashboard snapshot]({{ site.baseimg }}/assets/stock1.jpg)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![Dashboard snapshot]({{ site.baseimg }}/assets/stock2.jpg)
+{: refdef}
