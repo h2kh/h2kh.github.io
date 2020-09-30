@@ -13,6 +13,8 @@ The app is created using the Streamlit framework and is hosted on Heroku (it's a
 
 All of the financial data is scraped from Yahoo Finance in real time while the 'relevant news' data comes from NewsAPI.
 
+Some screenshots below:
+
 {:refdef: style="text-align: center;"}
 ![Dashboard snapshot]({{ site.baseimg }}/assets/stock1.jpg)
 {: refdef}
