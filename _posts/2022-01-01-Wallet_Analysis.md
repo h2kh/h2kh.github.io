@@ -6,6 +6,7 @@ nottableau: 'true'
 ---
 
 Here is the **[link for the app](https://share.streamlit.io/h2kh/wallet_analysis/main/app.py)**. 
+*took down the app for cost reasons but you can enjoy a GIF of the app functionality below* 
 
 This app is created with Streamlit which is a Python-based web framework.
 
@@ -21,7 +22,7 @@ This database is always checked first whenever a new query is submitted by the a
 
 If the desired data isn't available in the database, then the API endpoints are used.
 
-In case I take down the app for cost reasons, you can enjoy this GIF of the app functionality:
+In case I :
 
 ![app_gif](https://user-images.githubusercontent.com/21020474/163201889-9b3dae70-1eba-486c-aa33-23250b3a2801.gif)
 
