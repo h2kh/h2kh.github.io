@@ -15,7 +15,7 @@ Data as shown on a wallet's home page on EtherScan is not available from a singl
 
 The different API endpoints used, in addition to my mental model of an ETH wallet transaction, influenced my design of the database. The unified view of the transactions data displayed above comes from joining and filtering the different tables in the database.
 
-![Database schema](https://github.com/h2kh/wallet_analysis/blob/3b26f05929307acaedf2ff4eb7b17c5de04e9a3d/db_schema.png)
+![Database schema](h2kh/wallet_analysis/db_schema.png)
 
 This database is always checked first whenever a new query is submitted by the app user in order to avoid unnecessary requests to the API endpoints.
 
