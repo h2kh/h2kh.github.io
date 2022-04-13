@@ -5,11 +5,11 @@ subtitle: "Price charts and relevant news for NASDAQ Mega Cap stocks in addition
 nottableau: 'true'
 ---
 
-Here is the **[link for the app](https://fathomless-stream-09745.herokuapp.com/)**.
+Here is the **link for the app**. (*Edit: removed to save cost so you can look at the screenshot below instead*)
 
 I have used the following Python libraries in this project: Pandas, Matplotlib, YFinance, MPLFinance, and Requests.
 
-The app is created using the Streamlit framework and is hosted on Heroku (it's a free service so slightly slower than commercially-deployed apps).
+The app is created using the Streamlit framework and hosted on Streamlit Cloud.
 
 All of the financial data is scraped from Yahoo Finance in real time while the 'relevant news' data comes from NewsAPI.
 
