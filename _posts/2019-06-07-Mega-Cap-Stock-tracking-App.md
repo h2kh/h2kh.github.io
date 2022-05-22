@@ -7,6 +7,8 @@ nottableau: 'true'
 
 Here is the **link for the app**. (*Edit: removed to save cost so you can look at the screenshot below instead*)
 
+The code is at this [Github repo](https://github.com/h2kh/megacap_analysis).
+
 I have used the following Python libraries in this project: Pandas, Matplotlib, YFinance, MPLFinance, and Requests.
 
 The app is created using the Streamlit framework and hosted on Streamlit Cloud.
