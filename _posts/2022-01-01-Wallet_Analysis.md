@@ -7,6 +7,8 @@ nottableau: 'true'
 
 Here is the **link for the app**. (*Edit: took down the app for cost reasons but you can enjoy a GIF of the app functionality below*) 
 
+The code is at this [Github repo](https://github.com/h2kh/wallet_analysis).
+
 This app is created with Streamlit which is a Python-based web framework.
 
 Wallet transactions are collected from the EtherScan API. ETH/USD rates are collected from the CoinGecko API.
